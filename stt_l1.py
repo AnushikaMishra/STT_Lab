@@ -1,20 +1,31 @@
-def fibonacci(n):
-    """Generate a Fibonacci sequence up to n terms."""
-    a, b = 0, 1
-    for _ in range(n):
-        print(a, end=" ")
-        a, b = b, a + b
-    print()
+"""
+factorial.py - A simple script to compute the factorial of a number.
+
+This script prompts the user for a number and calculates its factorial using recursion.
+"""
+
+def factorial(n):
+    """
+    Recursively calculates the factorial of a given number.
+
+    Args:
+        n (int): The number to compute the factorial for.
+
+    Returns:
+        int: The factorial of the number.
+    """
+    if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
 
 def main():
-    """Main function to get user input and print Fibonacci sequence."""
-    print("Fibonacci Sequence Generator")
+    """Main function to get user input and print the factorial."""
     try:
-        n = int(input("Enter the number of terms: "))
-        if n <= 0:
-            print("Please enter a positive integer.")
+        num = int(input("Enter a number: "))
+        if num < 0:
+            print("Factorial is not defined for negative numbers.")
         else:
-            fibonacci(n)
+            print(f"The factorial of {num} is {factorial(num)}")
     except ValueError:
         print("Invalid input! Please enter an integer.")
 
