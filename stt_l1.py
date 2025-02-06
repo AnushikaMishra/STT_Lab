@@ -14,7 +14,7 @@ def factorial(n):
     Returns:
         int: The factorial of the number.
     """
-    if n == 0 or n == 1:
+    if n in (0, 1):  # ✅ Fix: Simplified condition
         return 1
     return n * factorial(n - 1)
 
