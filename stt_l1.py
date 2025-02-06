@@ -1,18 +1,22 @@
-def greet(name):
-    """Function to greet a person"""
-    return f"Hello, {name}!"
+def fibonacci(n):
+    """Generate a Fibonacci sequence up to n terms."""
+    a, b = 0, 1
+    for _ in range(n):
+        print(a, end=" ")
+        a, b = b, a + b
+    print()
 
-class Person:
-    """A class representing a person"""
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-
-    def display(self):
-        """Prints person details"""
-        print(f"Name: {self.name}, Age: {self.age}")
+def main():
+    """Main function to get user input and print Fibonacci sequence."""
+    print("Fibonacci Sequence Generator")
+    try:
+        n = int(input("Enter the number of terms: "))
+        if n <= 0:
+            print("Please enter a positive integer.")
+        else:
+            fibonacci(n)
+    except ValueError:
+        print("Invalid input! Please enter an integer.")
 
 if __name__ == "__main__":
-    p = Person("Alice", 25)
-    p.display()
-    print(greet("Alice"))
+    main()
