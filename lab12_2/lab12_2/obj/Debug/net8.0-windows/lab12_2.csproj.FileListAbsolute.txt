@@ -1,0 +1,17 @@
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.Form1.resources
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.csproj.GenerateResource.cache
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.AssemblyInfoInputs.cache
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.AssemblyInfo.cs
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.csproj.CoreCompileInputs.cache
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.sourcelink.json
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\bin\Debug\net8.0-windows\lab12_2.exe
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\bin\Debug\net8.0-windows\lab12_2.deps.json
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\bin\Debug\net8.0-windows\lab12_2.runtimeconfig.json
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\bin\Debug\net8.0-windows\lab12_2.dll
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\bin\Debug\net8.0-windows\lab12_2.pdb
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.dll
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\refint\lab12_2.dll
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.pdb
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\lab12_2.genruntimeconfig.cache
+C:\Users\Anushika Mishra\OneDrive\lab12_2\lab12_2\obj\Debug\net8.0-windows\ref\lab12_2.dll
